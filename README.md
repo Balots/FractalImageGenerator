@@ -1,0 +1,2 @@
+# FractalImageGenerator
+Приложение генерации изображений
